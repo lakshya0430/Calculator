@@ -5,7 +5,7 @@
 
 /**
  *
- * @author HP
+ * @author Lakshya Soni
  */
 public class calc extends javax.swing.JFrame {
 
